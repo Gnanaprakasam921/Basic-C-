@@ -1,0 +1,15 @@
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\bin\Debug\net7.0\StrinManipulation.exe
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\bin\Debug\net7.0\StrinManipulation.deps.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\bin\Debug\net7.0\StrinManipulation.runtimeconfig.json
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\bin\Debug\net7.0\StrinManipulation.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\bin\Debug\net7.0\StrinManipulation.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\StrinManipulation.csproj.AssemblyReference.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\StrinManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\StrinManipulation.AssemblyInfoInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\StrinManipulation.AssemblyInfo.cs
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\StrinManipulation.csproj.CoreCompileInputs.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\StrinManipulation.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\refint\StrinManipulation.dll
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\StrinManipulation.pdb
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\StrinManipulation.genruntimeconfig.cache
+C:\Users\GnanaprakasamSekar\OneDrive - Syncfusion\Desktop\Assignment\StrinManipulation\obj\Debug\net7.0\ref\StrinManipulation.dll
